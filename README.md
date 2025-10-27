@@ -1,1 +1,1 @@
-# Stylish Player
+# Tinker Music Player
